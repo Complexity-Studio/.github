@@ -1,12 +1,12 @@
 
-<h1 align="center">Bem-Vindo ao Complexity Studio</h1>
+<h1 align="center">Bem-Vindo ao COMPLIXYT Studios</h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-	<img width="871" height="109" alt="Complexity Studio Banner" src="https://res.cloudinary.com/dxa9dnwsr/image/upload/v1762989957/Complexity_Studio_xhtpu3.png" />
+	<!-- <img width="871" height="109" alt="Complexity Studio Banner" src="https://res.cloudinary.com/dxa9dnwsr/image/upload/v1762989957/Complexity_Studio_xhtpu3.png" /> -->
 	<!-- <img width="1162" height="443" alt="Troick Studio Banner" src="https://github.com/user-attachments/assets/fe401088-af18-4bd8-8fdc-bd7681390592" /> -->
   <!-- <img width="1162" height="443" alt="Troick Studio Banner" src="https://github.com/user-attachments/assets/24203225-7d4a-4212-8160-c31fdb9c30f2" /> -->
 </div>
